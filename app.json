@@ -1,0 +1,8 @@
+{
+  "android": {
+    "package": "com.svend.gee1kexpoudp"
+  },
+  "ios": {
+    "bundleIdentifier": "com.svend.gee1kexpoudp"
+  }
+}
