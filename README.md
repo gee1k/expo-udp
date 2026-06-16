@@ -19,8 +19,7 @@ exports a thin `useUdpSocket` hook for screen-local lifecycle management.
 ## Installation
 
 ```sh
-npm install @isvend/expo-udp
-npx expo prebuild
+npx expo install @isvend/expo-udp
 ```
 
 Add the config plugin to your app config:
